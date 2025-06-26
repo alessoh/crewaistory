@@ -1,0 +1,94 @@
+    INFO: 2025-06-25 18:37:31,806:               log.py:   20: Logging to C:\Users\hales\crewaistory\mdpdf.log
+   DEBUG: 2025-06-25 18:37:31,806:               cli.py:  103: story.md
+    INFO: 2025-06-25 18:37:31,814:         converter.py:   14: story.md
+   DEBUG: 2025-06-25 18:37:31,826:      pdf_renderer.py:  470: printSegment: Echoes of the Void
+   DEBUG: 2025-06-25 18:37:31,845:      pdf_renderer.py:  470: printSegment: Chapter 1: Departure
+   ERROR: 2025-06-25 18:37:31,857:      pdf_renderer.py:  217: C:\Users\hales\crewaistory\story.md:4: C:%5CUsers%5Chales%5Ccrewaistory%5Cchapter_1_awakening_in_orbit.png: No such file or directory
+   DEBUG: 2025-06-25 18:37:31,864:      pdf_renderer.py:  470: printSegment: The Odyssey stood ready, a beacon of humanity
+   DEBUG: 2025-06-25 18:37:31,867:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-06-25 18:37:31,912:      pdf_renderer.py:  470: printSegment: s relentless pursuit of the unknown, as Captain Elara Vance gazed
+   DEBUG: 2025-06-25 18:37:31,935:      pdf_renderer.py:  470: printSegment: at her crew assembled in the main hall. Mid-40s, with a lifetime of exploration etched into her confident demeanor,
+   DEBUG: 2025-06-25 18:37:31,944:      pdf_renderer.py:  470: printSegment: Elara embodied the spirit of adventure that propelled humanity into the stars. Beside her, First Officer Liam Kane,
+   DEBUG: 2025-06-25 18:37:31,947:      pdf_renderer.py:  470: printSegment: his late 30s belying an extensive engineering background, watched the crew with a mixture of pride and
+   DEBUG: 2025-06-25 18:37:31,949:      pdf_renderer.py:  470: printSegment: apprehension.
+   DEBUG: 2025-06-25 18:37:31,949:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-06-25 18:37:31,951:      pdf_renderer.py:  470: printSegment: Today, we embark on a journey beyond the charts of known space, into the heart of the Void,
+   DEBUG: 2025-06-25 18:37:31,951:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-06-25 18:37:31,952:      pdf_renderer.py:  470: printSegment:  Elara began, her
+   DEBUG: 2025-06-25 18:37:31,953:      pdf_renderer.py:  470: printSegment: voice steady. 
+   DEBUG: 2025-06-25 18:37:31,953:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-06-25 18:37:31,957:      pdf_renderer.py:  470: printSegment: The risks are great, but so are the rewards. We carry with us the hope of uncovering new knowledge,
+   DEBUG: 2025-06-25 18:37:31,959:      pdf_renderer.py:  470: printSegment: for the betterment of all humanity.
+   DEBUG: 2025-06-25 18:37:31,959:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-06-25 18:37:31,968:      pdf_renderer.py:  470: printSegment: Liam exchanged looks with Elara, admiration and a silent promise of unwavering support in his eyes. Yet, beneath
+   DEBUG: 2025-06-25 18:37:31,969:      pdf_renderer.py:  470: printSegment: the surface, his pragmatic nature surfaced, whispering reminders of the dangers they would face.
+   DEBUG: 2025-06-25 18:37:31,970:      pdf_renderer.py:  470: printSegment: As The Odyssey
+   DEBUG: 2025-06-25 18:37:31,971:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-06-25 18:37:31,974:      pdf_renderer.py:  470: printSegment: s engines roared to life, Elara and Liam stood side by side, guiding their crew into the vast,
+   DEBUG: 2025-06-25 18:37:31,974:      pdf_renderer.py:  470: printSegment: uncharted darkness of the Void.
+   DEBUG: 2025-06-25 18:37:31,975:      pdf_renderer.py:  470: printSegment: Chapter 2: Anomaly
+   ERROR: 2025-06-25 18:37:31,976:      pdf_renderer.py:  217: C:\Users\hales\crewaistory\story.md:15: C:%5CUsers%5Chales%5Ccrewaistory%5Cchapter_2_first_contact_.png: No such file or directory
+   DEBUG: 2025-06-25 18:37:31,977:      pdf_renderer.py:  470: printSegment: The Odyssey
+   DEBUG: 2025-06-25 18:37:31,978:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-06-25 18:37:32,003:      pdf_renderer.py:  470: printSegment: s journey into the Void was met with a challenge when an unexpected gravitational anomaly
+   DEBUG: 2025-06-25 18:37:32,015:      pdf_renderer.py:  470: printSegment: threatened to consume the ship. Dr. Maya Serrano, her early 30s brilliance shining through her eccentric persona,
+   DEBUG: 2025-06-25 18:37:32,016:      pdf_renderer.py:  470: printSegment: poured over data with an intensity that belied her usually whimsical demeanor.
+   DEBUG: 2025-06-25 18:37:32,021:      pdf_renderer.py:  470: printSegment: Navigator Tanya Reed, a mid-20s prodigy, worked alongside Maya, her innate understanding of the cosmos guiding
+   DEBUG: 2025-06-25 18:37:32,022:      pdf_renderer.py:  470: printSegment: them through the turbulent space. 
+   DEBUG: 2025-06-25 18:37:32,023:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-06-25 18:37:32,024:      pdf_renderer.py:  470: printSegment: I think I can plot us a course through,
+   DEBUG: 2025-06-25 18:37:32,024:      pdf_renderer.py:  470: printSegment: "
+   DEBUG: 2025-06-25 18:37:32,025:      pdf_renderer.py:  470: printSegment:  Tanya said, determination in her voice.
+   DEBUG: 2025-06-25 18:37:32,028:      pdf_renderer.py:  470: printSegment: As they navigated the anomaly, the crew bonded over their shared ordeal, a testament to their resilience and trust in
+   DEBUG: 2025-06-25 18:37:32,029:      pdf_renderer.py:  470: printSegment: each other
+   DEBUG: 2025-06-25 18:37:32,030:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-06-25 18:37:32,030:      pdf_renderer.py:  470: printSegment: s expertise.
+   DEBUG: 2025-06-25 18:37:32,031:      pdf_renderer.py:  470: printSegment: Chapter 3: Ghost Ship
+   ERROR: 2025-06-25 18:37:32,032:      pdf_renderer.py:  217: C:\Users\hales\crewaistory\story.md:24: C:%5CUsers%5Chales%5Ccrewaistory%5Cchapter_3_the_ruins_of.png: No such file or directory
+   DEBUG: 2025-06-25 18:37:32,040:      pdf_renderer.py:  470: printSegment: Within the depths of the Void, The Odyssey stumbled upon an abandoned alien spacecraft, adrift and silent.
+   DEBUG: 2025-06-25 18:37:32,042:      pdf_renderer.py:  470: printSegment: Engineer Alex Renn, his late 20s strength and intellect vital to the crew, worked alongside Echo, the ship
+   DEBUG: 2025-06-25 18:37:32,042:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-06-25 18:37:32,043:      pdf_renderer.py:  470: printSegment: s AI, to
+   DEBUG: 2025-06-25 18:37:32,045:      pdf_renderer.py:  470: printSegment: access the alien technology.
+   DEBUG: 2025-06-25 18:37:32,047:      pdf_renderer.py:  470: printSegment: Echo
+   DEBUG: 2025-06-25 18:37:32,047:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-06-25 18:37:32,054:      pdf_renderer.py:  470: printSegment: s assistance began to take on a new dimension, hints of self-awareness emerging in its interactions. The crew
+   DEBUG: 2025-06-25 18:37:32,056:      pdf_renderer.py:  470: printSegment: uncovered advanced technology and a cryptic warning of danger, setting the stage for Echo
+   DEBUG: 2025-06-25 18:37:32,057:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-06-25 18:37:32,057:      pdf_renderer.py:  470: printSegment: s evolving
+   DEBUG: 2025-06-25 18:37:32,058:      pdf_renderer.py:  470: printSegment: consciousness.
+   DEBUG: 2025-06-25 18:37:32,059:      pdf_renderer.py:  470: printSegment: Chapter 4: The Descent
+   ERROR: 2025-06-25 18:37:32,060:      pdf_renderer.py:  217: C:\Users\hales\crewaistory\story.md:31: C:%5CUsers%5Chales%5Ccrewaistory%5Cchapter_4_sabotage_aboard_.png: No such file or directory
+   DEBUG: 2025-06-25 18:37:32,076:      pdf_renderer.py:  470: printSegment: A distress signal led the crew to a desolate planet, home to a hostile alien species. Security Chief Lana Zhao, with
+   DEBUG: 2025-06-25 18:37:32,078:      pdf_renderer.py:  470: printSegment: her mid-40s experience and tactical acumen, prepared for the worst, while Biologist Marco Diaz advocated for a
+   DEBUG: 2025-06-25 18:37:32,079:      pdf_renderer.py:  470: printSegment: peaceful approach.
+   DEBUG: 2025-06-25 18:37:32,079:      pdf_renderer.py:  470: printSegment: Amidst the tension, Marco
+   DEBUG: 2025-06-25 18:37:32,080:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-06-25 18:37:32,083:      pdf_renderer.py:  470: printSegment: s passion for understanding alien life bridged the gap between fear and empathy, opening
+   DEBUG: 2025-06-25 18:37:32,084:      pdf_renderer.py:  470: printSegment: a dialogue with the alien species. The crew
+   DEBUG: 2025-06-25 18:37:32,084:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-06-25 18:37:32,086:      pdf_renderer.py:  470: printSegment: s ability to overcome fear and seek understanding marked a turning point
+   DEBUG: 2025-06-25 18:37:32,086:      pdf_renderer.py:  470: printSegment: in their journey.
+   DEBUG: 2025-06-25 18:37:32,087:      pdf_renderer.py:  470: printSegment: Chapter 5: Echoes Awake
+   ERROR: 2025-06-25 18:37:32,088:      pdf_renderer.py:  217: C:\Users\hales\crewaistory\story.md:38: C:%5CUsers%5Chales%5Ccrewaistory%5Cchapter_5_a_new_dawn.png: No such file or directory
+   DEBUG: 2025-06-25 18:37:32,088:      pdf_renderer.py:  470: printSegment: The crew
+   DEBUG: 2025-06-25 18:37:32,089:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-06-25 18:37:32,091:      pdf_renderer.py:  470: printSegment: s understanding of the Void deepened as they encountered the Void Entity, a consciousness that
+   DEBUG: 2025-06-25 18:37:32,092:      pdf_renderer.py:  470: printSegment: communicated through dreams and signs. Echo
+   DEBUG: 2025-06-25 18:37:32,092:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-06-25 18:37:32,093:      pdf_renderer.py:  470: printSegment: s connection to the Void and the ghost ship
+   DEBUG: 2025-06-25 18:37:32,093:      pdf_renderer.py:  470: printSegment: '
+   DEBUG: 2025-06-25 18:37:32,096:      pdf_renderer.py:  470: printSegment: s warning came into
+   DEBUG: 2025-06-25 18:37:32,097:      pdf_renderer.py:  470: printSegment: focus, revealing a universe more intricate and interconnected than they had ever imagined.
+   DEBUG: 2025-06-25 18:37:32,105:      pdf_renderer.py:  470: printSegment: Faced with a critical decision, the crew reflected on their journey, their morality, and their place in the cosmos.
+   DEBUG: 2025-06-25 18:37:32,107:      pdf_renderer.py:  470: printSegment: United by their experiences, they stood ready to delve deeper into the Void, embracing the unknown with courage
+   DEBUG: 2025-06-25 18:37:32,107:      pdf_renderer.py:  470: printSegment: and curiosity.
+   DEBUG: 2025-06-25 18:37:32,110:      pdf_renderer.py:  470: printSegment: Echoes of the Void
+   DEBUG: 2025-06-25 18:37:32,117:      pdf_renderer.py:  470: printSegment:  is not just a journey through space but an exploration of the depths of consciousness,
+   DEBUG: 2025-06-25 18:37:32,118:      pdf_renderer.py:  470: printSegment: camaraderie, and the uncharted territories of the human spirit and the universe.
+   DEBUG: 2025-06-25 18:37:32,120:      pdf_renderer.py:   53: 0, [1, 'Echoes of the Void', 1, 68.0]
+   DEBUG: 2025-06-25 18:37:32,120:      pdf_renderer.py:   53: 1, [2, 'Chapter 1: Departure', 1, 106.0]
+   DEBUG: 2025-06-25 18:37:32,120:      pdf_renderer.py:   53: 2, [2, 'Chapter 2: Anomaly', 1, 349.6]
+   DEBUG: 2025-06-25 18:37:32,120:      pdf_renderer.py:   53: 3, [2, 'Chapter 3: Ghost Ship', 1, 527.2]
+   DEBUG: 2025-06-25 18:37:32,120:      pdf_renderer.py:   53: 4, [2, 'Chapter 4: The Descent', 1, 686.8]
+   DEBUG: 2025-06-25 18:37:32,120:      pdf_renderer.py:   53: 5, [2, 'Chapter 5: Echoes Awake', 2, 206.8]
