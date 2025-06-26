@@ -144,7 +144,7 @@ Edit the DALL-E prompt in the `generateimage` function to change illustration st
 # [Story Title]
 
 ## Chapter 1: [Chapter Title]
-![Chapter 1 Image]chapter_1_awakening_in_orbit.png
+![Alt text](./chapter_1_awakening_in_orbit.png)
 The Odyssey stood ready, a beacon of humanity's relentless pursuit of the unknown, as Captain Elara Vance gazed
 at her crew assembled in the main hall. Mid-40s, with a lifetime of exploration etched into her confident demeanor,
 Elara embodied the spirit of adventure that propelled humanity into the stars. Beside her, First Officer Liam Kane,
