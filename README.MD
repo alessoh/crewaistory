@@ -140,9 +140,9 @@ Edit the DALL-E prompt in the `generateimage` function to change illustration st
 
 ### Sample Story Structure
 
-# [Story Title]
+# Echoes of the Void
 
-## Chapter 1: [Chapter Title]
+## Chapter 1: Departure
 
 ![Alt text](./chapter_1_awakening_in_orbit.png)
 
