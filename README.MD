@@ -140,7 +140,6 @@ Edit the DALL-E prompt in the `generateimage` function to change illustration st
 
 ### Sample Story Structure
 
-```markdown
 # [Story Title]
 
 ## Chapter 1: [Chapter Title]
@@ -180,7 +179,6 @@ uncharted darkness of the Void.
 
 
 
-```
 
 ## Tips for Best Results
 
