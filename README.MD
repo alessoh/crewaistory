@@ -222,9 +222,20 @@ python sphere1.py
 
 Feel free to submit issues, fork the repository, and create pull requests for any improvements.
 
+
 ## License
 
-[Add your license information here]
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+## Contact
+
+- **Homepage**: [Video Software Lab](https://www.videosoftwarelab.com/)
+- **Email**: info@ai-hive.net
+- **GitHub**: [https://github.com/alessoh/crewaistory]
+
+For any questions, feedback, or bug reports, please open an issue in the GitHub repository or contact us via email
+
 
 ## Acknowledgments
 
