@@ -160,7 +160,7 @@ the surface, his pragmatic nature surfaced, whispering reminders of the dangers 
 As The Odyssey's engines roared to life, Elara and Liam stood side by side, guiding their crew into the vast,
 uncharted darkness of the Void.
 
-## Chapter 2: [Chapter Title]
+## Chapter 2: Anomaly
 ![Chapter 2 Image](./chapter_2_first_contact_.png)
 The Odyssey's journey into the Void was met with a challenge when an unexpected gravitational anomaly
 threatened to consume the ship. Dr. Maya Serrano, her early 30s brilliance shining through her eccentric persona,
@@ -170,7 +170,7 @@ them through the turbulent space. "I think I can plot us a course through," Tany
 As they navigated the anomaly, the crew bonded over their shared ordeal, a testament to their resilience and trust in
 each other's expertise.
 
-## Chapter 3: [Chapter Title]
+## Chapter 3: Ghost Ship
 ![Chapter 1 Image](./chapter_3_the_ruins_of.png)
 Within the depths of the Void, The Odyssey stumbled upon an abandoned alien spacecraft, adrift and silent.
 Engineer Alex Renn, his late 20s strength and intellect vital to the crew, worked alongside Echo, the ship's AI, to
@@ -179,7 +179,7 @@ Echo's assistance began to take on a new dimension, hints of self-awareness emer
 uncovered advanced technology and a cryptic warning of danger, setting the stage for Echo's evolving
 consciousness.
 
-## Chapter 4: [Chapter Title]
+## Chapter 4: The Descent
 ![Chapter 1 Image](./chapter_4_sabotage_aboard_.png)
 A distress signal led the crew to a desolate planet, home to a hostile alien species. Security Chief Lana Zhao, with
 her mid-40s experience and tactical acumen, prepared for the worst, while Biologist Marco Diaz advocated for a
@@ -189,7 +189,7 @@ a dialogue with the alien species. The crew's ability to overcome fear and seek 
 in their journey.
 
 
-## Chapter 5: [Chapter Title]
+## Chapter 5: Echoes Awake
 ![Chapter 1 Image](./chapter_5_a_new_dawn_.png)
 The crew's understanding of the Void deepened as they encountered the Void Entity, a consciousness that
 communicated through dreams and signs. Echo's connection to the Void and the ghost ship's warning came into
