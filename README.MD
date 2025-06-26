@@ -190,7 +190,7 @@ in their journey.
 
 
 ## Chapter 5: [Chapter Title]
-![Chapter 1 Image]./(chapter_5_a_new_dawn_.png)
+![Chapter 1 Image](./chapter_5_a_new_dawn_.png)
 The crew's understanding of the Void deepened as they encountered the Void Entity, a consciousness that
 communicated through dreams and signs. Echo's connection to the Void and the ghost ship's warning came into
 focus, revealing a universe more intricate and interconnected than they had ever imagined.
